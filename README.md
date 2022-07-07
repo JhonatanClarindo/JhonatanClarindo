@@ -16,3 +16,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JhonatanClarindo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
+<p align="center">
+  <br />
+  <br />
+  <img src="./Good-Bye-Friend-07-07-2022.gif" width="20%">
+</p>
