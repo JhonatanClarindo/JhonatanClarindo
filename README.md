@@ -1,7 +1,9 @@
-# 💫 About Me:
-Hello Friends! 🤖<br><br>I'm a software engineer I<br>🔭 Presently working in projects Java and Angular<br>And starting studies in python<br>
+<h1 align="center">Hello, Friend 🤖 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&color=17F711&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;Software+Engineering+Student"></a>
+</p>
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jhonatan-clarindo-202096161/) 
 
