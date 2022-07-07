@@ -21,5 +21,5 @@
 <p align="center">
   <br />
   <br />
-  <img src="./Good-Bye-Friend-07-07-2022.gif" width="20%">
+  <img src="./Good-Bye-Friend-07-07-2022.gif" width="30%">
 </p>
